@@ -13,6 +13,7 @@ url:                https://mongsilemong.github.io/
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
+timezone: Asia/Seoul
 highlighter:        rouge
 future: true
 kramdown:
