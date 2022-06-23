@@ -9,6 +9,7 @@ comments: false
 <center>Enthusiastic and creative <a href="http://mongsilemong.github.io"><b>data scientist</b></a>  who loves learning new things.</center>
 
 ## Education
+---
 * Fryeburg Academy, Maine, USA, 2008.9 - 2009.5
 * Calvin Christian High School, California, USA, 2009.9 - 2010.5
 * Queen of Peace High School, New Jersey, USA, 2010.9 - 2013.5
@@ -18,6 +19,7 @@ comments: false
 
 
 ## Experience
+---
 * Research Assistant, POSTECH, 2015.7 - 2015.8
 * Research Engineer, Tmax Data, 2021.8 - 2021.8
 * Data Engineer, I-scream edu, 2021.11 - present
