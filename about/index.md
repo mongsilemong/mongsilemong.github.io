@@ -13,7 +13,7 @@ comments: false
  * Fryeburg Academy, Maine, USA, 2008.9 - 2009.5
  * Calvin Christian High School, California, USA, 2009.9 - 2010.5
  * Queen of Peace High School, New Jersey, USA, 2010.9 - 2013.5
- * B.S. in Mechanichan Engineering, State University of New York at Buffalo, New York, USA, 2013.9 - 2015.5 (Transfer)
+ * B.S. in Mechanichan Engineering, State University of New York at Buffalo, New York, USA, 2013.9 - 2015.5 (Scholarship, Transfer)
  * B.S. in Computer Science, University of Wisconsin - Madison, USA, 2015.9 - 2019.5
  * M.S. in Industrial Engineering, Seoul National Unviersity, South Korea, 2019.7 - 2021.8
     * Analysed data to develop User Experience with Korea Automotive Technology Institute, Samsung, Ministry of Culture ＆ Tourism, and Coway
