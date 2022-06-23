@@ -1,6 +1,6 @@
 ---
 layout: daily
-title: 일상
+title: My daily life
 excerpt: "A List of dailys"
 comments: false
 ---
