@@ -25,12 +25,16 @@ comments: false
  * Data Engineer, I-scream edu, 2021.11 - present
 
 ## Publications  
+
 ---
+
 ### International Journal
- * Applied Science(2nd Author) - Identifying the Risk Factors in the Context-of-Use of Electric Kick Scooters Based on a Latent Dirichlet Allocation
- * Safety Science(2nd Author) - Contextual risk factors in the use of electric kick scooters: An episode sampling inquiry
+ - Applied Science(2nd Author) - Identifying the Risk Factors in the Context-of-Use of Electric Kick Scooters Based on a Latent Dirichlet Allocation
+ - Safety Science(2nd Author) - Contextual risk factors in the use of electric kick scooters: An episode sampling inquiry  
+
 ### International Conference
- * 2019 IEEE IEEM(Conference poster) - Developing User Evaluation Technology Based on New Product Concepts
+ - 2019 IEEE IEEM(Conference poster) - Developing User Evaluation Technology Based on New Product Concepts  
+
 ### Domestic Conference
- * 2019 KIIE (Conference oral presentation) - Ergonomic Design for South Korean Military Backpack using Anthropometric dimensions
- * 2020 ESK (Conference oral presentation) - Evaluating User Experience Using Physiological Data from Conversational Interfaces for Interactive TV
+ - 2019 KIIE (Conference oral presentation) - Ergonomic Design for South Korean Military Backpack using Anthropometric dimensions
+ - 2020 ESK (Conference oral presentation) - Evaluating User Experience Using Physiological Data from Conversational Interfaces for Interactive TV
