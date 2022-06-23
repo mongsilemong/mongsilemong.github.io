@@ -1,14 +1,14 @@
 # Site navigation links
 
-- title: Projects
+- title: Computer
   url: /projects/
 
 - title: Books
   url: /book/
   
-- title: 일상노트
+- title: Daily
   url: /daily/
 
-- title: 일상노트
+- title: Business
   url: /develop/
 
