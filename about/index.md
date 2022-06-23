@@ -16,13 +16,19 @@ comments: false
  * B.S. in Mechanichan Engineering, State University of New York at Buffalo, New York, USA, 2013.9 - 2015.5 (Transfer)
  * B.S. in Computer Science, University of Wisconsin - Madison, USA, 2015.9 - 2019.5
  * M.S. in Industrial Engineering, Seoul National Unviersity, South Korea, 2019.7 - 2021.8
-
+    * Analysed data to develop User Experience with Korea Automotive Technology Institute, Samsung, Ministry of Culture ＆ Tourism, and Coway
+    * My graduation thesis is "Study on the development of evaluation of electric kickboards based on user types"
 
 ## Experience
 ---
  * Research Assistant, POSTECH, 2015.7 - 2015.8
+    * Researched predicting the box-office success of a movie from a commercial perspective using EEG sensor
  * Research Engineer, Tmax Data, 2021.8 - 2021.8
+    * Developed domestic data analytic program
  * Data Engineer, I-scream edu, 2021.11 - present
+    * Constructed data warehouse using AWS clouding services
+    * Extracted every data that every employees in the company need
+    * Analysed data to support business argument and derive new insight to develop educational contents
 
 ## Publications  
 
