@@ -16,7 +16,7 @@ comments: false
  * B.S. in Mechanichan Engineering, State University of New York at Buffalo, New York, USA, 2013.9 - 2015.5 (Scholarship, Transfer)
  * B.S. in Computer Science, University of Wisconsin - Madison, USA, 2015.9 - 2019.5
  * M.S. in Industrial Engineering, Seoul National Unviersity, South Korea, 2019.7 - 2021.8
-    * Analysed data to develop User Experience of systems, products and services with Korea Automotive Technology Institute, Samsung, Ministry of Culture ＆ Tourism, and Coway
+    * Analyzed data to develop User Experience of systems, products and services with Korea Automotive Technology Institute, Samsung, Ministry of Culture ＆ Tourism, and Coway
     * My graduation thesis is "Study on the development of evaluation of electric kickboards based on user types"
  * Ph.D in Metaverse Technology, Sogang University, South Korea, 2022.9 - Present
 
@@ -29,7 +29,7 @@ comments: false
  * Data Engineer, I-scream edu, 2021.11 - present
     * Constructed data warehouse using AWS clouding services
     * Extracted every data that every employees in the company need
-    * Analysed data to support business argument and derive new insight to develop educational contents
+    * Analyzed data to support business arguments and derive new insight to develop educational content
 
 ## Publications  
 
