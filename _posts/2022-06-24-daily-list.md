@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "유학부터 석사까지 총정리"
+date:   2022-06-23
+excerpt: "여러 학교들을 돌아다닌 기억을 끄집어내며 끄적끄적."
+daily: true
+tag:
+- Fryeburg Academy
+- Calvin Christian High School
+- Queen of Peace High School
+- State University of New York at Buffalo
+- University of Wisconsin - Madison
+- Seoul National University
+
+comments: true
+---
+
+
