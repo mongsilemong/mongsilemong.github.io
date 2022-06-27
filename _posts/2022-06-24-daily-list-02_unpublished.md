@@ -4,6 +4,7 @@ title:  "유학시작부터 석사까지 총정리"
 date:   2022-06-23
 excerpt: "여러 학교들을 돌아다닌 기억을 끄집어내며 끄적끄적."
 daily: true
+published: false
 tag:
 - Fryeburg Academy
 - Calvin Christian High School
