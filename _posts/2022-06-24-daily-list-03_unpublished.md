@@ -4,6 +4,7 @@ title:  "전문연구요원 훈련소 생활"
 date:   2022-06-23
 excerpt: "3주간 있었던 전문연구요원 훈련소 생활 정리"
 daily: true
+published: false
 tag:
 - 훈련소
 - 전문연구요원
