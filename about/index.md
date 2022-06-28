@@ -26,7 +26,7 @@ comments: false
     * Researched predicting the box-office success of a movie from a commercial perspective using EEG sensor
  * Researcher, Tmax Data, 2021.8 - 2021.8
     * Developed domestic data analysis software
- * Data Engineer, I-scream edu, 2021.11 - present (Python, AWS, SQL, Statistics, Data Warehouse, BI)
+ * Data Engineer, I-scream edu, 2021.11 - present (Alternative military service)
     * Constructed data warehouse using AWS clouding services
     * Extracted every data that every employees in the company need
     * Analyzed data to support business arguments and derive new insight to develop educational contents
