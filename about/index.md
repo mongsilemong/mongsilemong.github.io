@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center>Enthusiastic and creative <a href="http://mongsilemong.github.io"><b>data scientist</b></a>  who loves learning new things.</center>
+<!-- <center>Enthusiastic and creative <a href="http://mongsilemong.github.io"><b>data scientist</b></a>  who loves learning new things.</center> -->
 
 ## Education
 ---
