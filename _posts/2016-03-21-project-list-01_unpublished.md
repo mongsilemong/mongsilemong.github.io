@@ -26,7 +26,8 @@ by fantasy coders: Chan Hyeok Yun, Oliver DeBarros, Joseluis Garcia
 ![licenseplate1](assets/img/projects/platerecognition1.png)
 
 ![licenseplate2](assets/img/projects/platerecognition2.png)
-<img width="150" src="assets/img/projects/platerecognition2.png">
+
+<img width="150" src="/assets/img/projects/platerecognition2.png">
 
  * Incoming Image
  * Convert to Binary
