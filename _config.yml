@@ -71,6 +71,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-redirect-from
+  - jekyll-youtube
 
 
 jekyll-mentions:
