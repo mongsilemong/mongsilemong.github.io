@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Two Projects from College"
+title:  "Computer Projects from College"
 date:   2016-04-06
 excerpt: "Football athelets' database, License Plate Recognition Program"
 project: true
