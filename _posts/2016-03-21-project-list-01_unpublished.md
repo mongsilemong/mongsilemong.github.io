@@ -23,9 +23,9 @@ by fantasy coders: Chan Hyeok Yun, Oliver DeBarros, Joseluis Garcia
 
 ## License Plate Recognition
 
-![licenseplate1](./img/projects/plate recognition1.png)
+![licenseplate1](assets/img/projects/platerecognition1.png)
 
-![licenseplate2](./img/projects/plate recognition2.png)
+![licenseplate2](assets/img/projects/platerecognition2.png)
 
  * Incoming Image
  * Convert to Binary
