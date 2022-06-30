@@ -21,7 +21,7 @@ published: true
 
 <table>
   <tr>
-    <td><img width=50% src="/assets/img/projects/삼성3.png" alt="삼성3"/> <img width=50% src="/assets/img/projects/삼성4.png" alt="삼성4"/></td>
+    <td><img width=50% src="/assets/img/projects/삼성3.png" alt="삼성3"/></td><td><img width=50% src="/assets/img/projects/삼성4.png" alt="삼성4"/></td>
   <tr>
 </table>
 
