@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[학부 프로젝트]Football athelets' database & License Plate Recognition Program"
+title:  "[학부 프로젝트] Football athelets' database & License Plate Recognition Program"
 date:   2016-04-06
 excerpt: "Football athelets' database, License Plate Recognition Program"
 project: true
@@ -18,7 +18,7 @@ published: true
 by fantasy coders: Chan Hyeok Yun, Oliver DeBarros, Joseluis Garcia
 								
 [![미리보기](https://img.youtube.com/vi/hN7IpRbBbLM/0.jpg)](https://www.youtube.com/watch?v=hN7IpRbBbLM)
- 
+
 
 
 ## License Plate Recognition
