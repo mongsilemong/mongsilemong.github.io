@@ -18,7 +18,7 @@ published: true
 by fantasy coders: Chan Hyeok Yun, Oliver DeBarros, Joseluis Garcia
 								
 [![미리보기](https://img.youtube.com/vi/hN7IpRbBbLM/0.jpg)](https://www.youtube.com/watch?v=hN7IpRbBbLM)
-
+ 
 
 
 ## License Plate Recognition
