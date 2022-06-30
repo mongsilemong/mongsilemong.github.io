@@ -26,6 +26,12 @@ published: true
 </table>
 
 
+<div class="grid-image">
+  <img width=50% src="/assets/img/projects/삼성3.png" alt="삼성3"/>
+  <img width=50% src="/assets/img/projects/삼성4.png" alt="삼성4"/>
+</div>
+
+
  ![삼성3](/assets/img/projects/삼성3.png){ width=50% } | ![삼성4](/assets/img/projects/삼성3.png){ width=50% }
 
 
