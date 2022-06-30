@@ -20,9 +20,8 @@ published: true
 
 
 
-  <img width=50% src="/assets/img/projects/삼성3.png" alt="삼성3"/>
-  <img width=50% src="/assets/img/projects/삼성4.png" alt="삼성4"/>
+<img src=/assets/img/projects/삼성3.png width=50%>
+<img src=/assets/img/projects/삼성4.png width="50%>
 
-
-
+                                             
  * 가이드라인가 완성된 예시다. 사진과 같이 손잡이 각도를 설정할때도 허용되는 범위와 권장하는 범위를 따로 나누어 설계기준을 제공해준다.
