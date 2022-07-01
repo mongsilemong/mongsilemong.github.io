@@ -21,7 +21,7 @@ published: true
  * 가이드라인 작성 과정이다. 연구 대상을 먼저 설정하고 작업분석(therblig), 부품분석을 통해 사용맥락과 부품별 주요 이슈들을 도출한다. 도출된 이슈가 가이드라인에 필요한지 카운터파트와 상의하여 최종 이슈를 도출하고 그 이슈에대한 설계기준을 ISO기준, 논문과 같은 문헌조사를 통해 1차적으로 수립하고 문헌만으로 결과가 도출되지 않은 이슈에 대한 부분은 실험을 통해 수립하였다. 
 
 
-<img src="assets/img/projects/삼성3.png" width="50%" /> <img src="assets/img/projects/삼성4.png" width="50%" /> 
+![삼성3](https://user-images.githubusercontent.com/70885010/176804439-afdd620e-30bc-43ce-8c89-cd5b9d1349f0.png =50%) ![삼성4](https://user-images.githubusercontent.com/70885010/176804479-f2f9d82a-3054-4128-b16f-9cd84fc021dd.png =50%)
 
  
  * 가이드라인가 완성된 예시다. 사진과 같이 손잡이 각도를 설정할때도 허용되는 범위와 권장하는 범위를 따로 나누어 설계기준을 제공해준다.
