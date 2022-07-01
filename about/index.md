@@ -21,10 +21,10 @@ comments: false
  * M.S. in Industrial Engineering, Seoul National Unviersity, South Korea, 2019.7 - 2021.8
     * Analyzed data to develop User Experience of systems, products and services with Korea Automotive Technology Institute, Samsung, Ministry of Culture ＆ Tourism, and Coway
     * My graduation thesis is "Study on the development of evaluation of electric kickboards based on user types"
-    * Python, SPSS, SAS, Statistics
+    * Ergonomics, Python, SPSS, SAS, Statistics, User Experience, Data Analysis
 
 ### Part-time
- * Ph.D in Metaverse Technology, Sogang University, South Korea, 2022.9 - Present (Part-time)
+ * Ph.D in Metaverse Technology, Sogang University, South Korea, 2022.9 - Present
 
 ## Experience
 
