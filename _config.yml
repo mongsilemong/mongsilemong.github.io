@@ -32,9 +32,9 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-google:
+#google:
   #plus:            #username
-  analytics: G-T6NZ9GZ4N6
+  #analytics: G-T6NZ9GZ4N6
   #verify:
   #ad-client:
   #ad-slot:
