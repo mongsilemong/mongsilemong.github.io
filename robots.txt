@@ -1,4 +1,4 @@
 # Allow crawling of all content
 User-agent: *
 Allow: /
-Sitemap: http://mongsilemong.github.io/_includes/sitemap.xml
+Sitemap: http://mongsilemong.github.io/sitemap.xml
