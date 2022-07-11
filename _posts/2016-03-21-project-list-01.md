@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[학부 프로젝트] Football athelets' database & License Plate Recognition Program"
-date:   2016-04-06
+date:   2022-06-28
 excerpt: "Football athelets' database, License Plate Recognition Program"
 project: true
 tag:
