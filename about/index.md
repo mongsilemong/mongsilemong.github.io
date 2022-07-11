@@ -37,7 +37,7 @@ comments: false
     * Developed domestic data analysis software
  * Data Engineer, I-scream edu, 2021.11 - Present (Alternative military service)
     * Constructed data warehouse using AWS clouding services
-    * Extracted every data that every employees in the company need
+    * Extracted data for new business insights
     * Analyzed data to support business arguments and derive new insight to develop educational contents
     * SQL, Python, Data warehouse, Data mart, BI
 
