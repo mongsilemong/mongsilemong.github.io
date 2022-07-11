@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Curriculum Vitae
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+tags: [윤찬혁, 서울대학교, 서강대학교, 메타버스대학원, 산업공학과, 컴퓨터과학, 메타버스 테크놀로지, 푸미, 데이터분석, 데이터사이언티스트, 데이터 분석가]
+date: 2022-07-11
 comments: false
 ---
     
