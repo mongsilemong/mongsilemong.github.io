@@ -34,7 +34,7 @@ comments: false
 * Research Assistant, POSTECH, 2015.7 - 2015.8
     * Researched predicting the box-office success of a movie from a commercial perspective using EEG sensor
  * Researcher, Tmax Data, 2021.8 - 2021.8
-    * Developed domestic data analysis software
+    * Developed domestic software for data analysis
  * Data Engineer, I-scream edu, 2021.11 - Present (Alternative military service)
     * Constructed data warehouse using AWS clouding services
     * Extracted data for new business insights
@@ -43,7 +43,7 @@ comments: false
 
 ### Part-time
  * Co-founder, Poomi, 2022.1 - Present
-    * Service platform application start-up with 4 other college friends
+    * Service platform application start-up with 4 other partners
 
 
 ## Publications  
