@@ -1,14 +1,14 @@
 # Site navigation links
 
 - title: Computer
-  url: projects/
+  url: /projects/
 
 - title: Books
-  url: book/
+  url: /book/
   
 - title: Daily
-  url: daily/
+  url: /daily/
 
 - title: Business
-  url: develop/
+  url: /develop/
 
