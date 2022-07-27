@@ -8,6 +8,9 @@ published: true
 tag:
 - 창
 - 부트캠프
+- 직장인
+- 스파르타코딩클럽
+- 창업
 
 comments: true
 ---
