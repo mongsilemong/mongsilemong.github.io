@@ -42,8 +42,9 @@ comments: false
     * SQL, Python, Data warehouse, Data mart, BI
 
 ### Part-time
- * Co-founder, Poomi, 2022.1 - Present
+ * Co-founder, Poomi, 2022.1 - 2022-08
     * Service platform application start-up with 4 other partners
+    * Taking a long-term break due to focusing on our main jobs
 
 
 ## Publications  
