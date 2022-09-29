@@ -39,7 +39,7 @@ comments: false
     * Constructed data warehouse using AWS clouding services
     * Extracted data for new business insights
     * Analyzed data to support business arguments and derive new insight to develop educational contents
-    * SQL, Python, Data warehouse, Data mart, BI
+    * Skill set: SQL, Python(data analysis, ETL), Data warehouse, Data mart, BI
 
 ### Part-time
  * Co-founder, Poomi, 2022.1 - 2022-08
