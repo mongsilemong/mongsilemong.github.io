@@ -63,3 +63,5 @@ comments: false
  - 2020 ESK (Conference oral presentation) - Evaluating User Experience Using Physiological Data from Conversational Interfaces for Interactive TV
  - 2020 HCIK - Applying the Focused Day Reconstruction Method for Extracting Product-Environmental Risk Factors from Electric Kick Scooter Risky Episodes
  - 2021 HCIK - User Experience Factor Investigation of a Voice User Interface (VUI) for the Elderly
+ - 2020 HCIK (co-author) - Applying the Focused Day Reconstruction Method for Extracting Product-Environmental Risk Factors from Electric Kick Scooter Risky Episodes
+ - 2021 HCIK (co-author) - User Experience Factor Investigation of a Voice User Interface (VUI) for the Elderly
