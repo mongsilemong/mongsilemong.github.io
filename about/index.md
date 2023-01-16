@@ -61,7 +61,7 @@ comments: false
 ### Domestic Conference
  - 2019 KIIE (Conference oral presentation) - Ergonomic Design for South Korean Military Backpack using Anthropometric dimensions
  - 2020 ESK (Conference oral presentation) - Evaluating User Experience Using Physiological Data from Conversational Interfaces for Interactive TV
+ - 2020 ESK Fall (co-author, poster) - Speech Length and Type Construction for an Assistive Speech Agent in User Guidance Context
+ - 2021 ESK Spring (co-author) - Identifying UX Issues for Multimodal Interaction of Intelligent Systems Using User-Centered Design Techniques
  - 2020 HCIK - Applying the Focused Day Reconstruction Method for Extracting Product-Environmental Risk Factors from Electric Kick Scooter Risky Episodes
  - 2021 HCIK - User Experience Factor Investigation of a Voice User Interface (VUI) for the Elderly
- - 2020 HCIK (co-author) - Applying the Focused Day Reconstruction Method for Extracting Product-Environmental Risk Factors from Electric Kick Scooter Risky Episodes
- - 2021 HCIK (co-author) - User Experience Factor Investigation of a Voice User Interface (VUI) for the Elderly
