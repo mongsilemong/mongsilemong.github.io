@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[SNM] 두번째 창업 시작"
-date:   2023-02-15
-excerpt: "사업성 검증 전, 사업 인과관계 및 시나리오 도출."
+title:  "[2022년 제1회 메타버스 기획공모전] 기획 공모전 수상"
+date:   2023-01-15
+excerpt: "대학 공모전에서도 수상 못하면 안되지!"
 develop: true
 published: true
 tag:
@@ -10,9 +10,7 @@ tag:
 - 창업
 - 메타버스
 - 대학원
-- SNM
-- 인과관계
-- 시나리오 도출
+- 공모전
 
 comments: true
 ---
