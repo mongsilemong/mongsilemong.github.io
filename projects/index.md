@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Computer
-excerpt: "My Computer Stories"
+title: Engineering
+excerpt: "My Engineering Stories"
 comments: false
 ---
