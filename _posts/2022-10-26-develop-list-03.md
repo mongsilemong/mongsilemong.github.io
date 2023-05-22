@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[SNM] 두번째 창업 시작"
+title:  "[SNM] 사업 시나리오 도출을 통한 사업 방향성 예상"
 date:   2022-10-26
 excerpt: "사업성 검증 전, 사업 인과관계 및 시나리오 도출."
 develop: true
@@ -28,3 +28,4 @@ comments: true
 7. 시나리오 경로 분석: 시나리오 네트워크 맵핑에서 나올 수 있는 시나리오들을 정리하는 단계이다.
 8. 시나리오 별 전략 도출: 도출된 시나리오 별로 어떻게 대응을 해야 할 지 정리하는 단계이다.
 
+![image](https://github.com/mongsilemong/mongsilemong2.github.io/assets/70885010/c62689f4-4abe-4838-a33a-3f22db5534e2)
