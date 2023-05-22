@@ -2,7 +2,7 @@
 layout: post
 title:  "[2022년 이화 WI-Corps 창업경진대회] 수료"
 date:   2023-03-28
-excerpt: "대학 공모전 우수상 수상...!"
+excerpt: "여러모로 에너지를 많이 쓰고 많이 얻은 경진대회"
 develop: true
 published: true
 tag:
