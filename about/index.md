@@ -15,16 +15,16 @@ comments: false
 ### Full-time
  * Fryeburg Academy, Maine, USA, 2008.9 - 2009.5
  * Calvin Christian High School, California, USA, 2009.9 - 2010.5
- * Queen of Peace High School, New Jersey, USA, 2010.9 - 2013.5
- * B.S. in Mechanichan Engineering, State University of New York at Buffalo, New York, USA, 2013.9 - 2015.5 (Scholarship, Transfer)
- * B.S. in Computer Science, University of Wisconsin - Madison, USA, 2015.9 - 2019.5
- * M.S. in Industrial Engineering, Seoul National Unviersity, South Korea, 2019.7 - 2021.8
+ * Queen of Peace High School(graduated), New Jersey, USA, 2010.9 - 2013.5
+ * B.S. in Mechanichal Engineering, State University of New York at Buffalo, New York, USA, 2013.9 - 2015.5 (Scholarship, not graduated)
+ * B.S. in Computer Science, University of Wisconsin - Madison(graduated), USA, 2015.9 - 2019.5
+ * M.S. in Industrial Engineering, Seoul National Unviersity(graduated), South Korea, 2019.7 - 2021.8
     * Analyzed data to develop User Experience of systems, products and services with Korea Automotive Technology Institute, Samsung, Ministry of Culture ＆ Tourism, and Coway
-    * My graduation thesis is "Study on the development of evaluation of electric kickboards based on user types"
+    * Graduation thesis : Study on the development of evaluation of electric kickboards based on user types
     * Ergonomics, Python, SPSS, SAS, Statistics, User Experience, Data Analysis
 
 ### Part-time
- * Ph.D in Metaverse Technology, Sogang University, South Korea, 2022.9 - Present
+ * Ph.D in Metaverse Technology, Sogang University, South Korea, 2022.8 - Present
 
 ## Experience
 
@@ -36,15 +36,17 @@ comments: false
  * Researcher, Tmax Data, 2021.8 - 2021.8
     * Developed domestic software for data analysis
  * Data Engineer, I-scream edu, 2021.11 - Present (Alternative military service)
-    * Constructed data warehouse using AWS clouding services
-    * Extracted data for new business insights
+    * Developed procedures with PostgreSQL to managed dashboards
+    * Extracted and preprocessed data for other teams to analyse data
+    * Visualized data using BI(Business Intelligence) tools(Redash)
     * Analyzed data to support business arguments and derive new insight to develop educational contents
     * Skill set: SQL, Python(data analysis, ETL), Data warehouse, Data mart, BI
 
 ### Part-time
- * Co-founder, Poomi, 2022.1 - 2022-08
+ * Co-founder, Poomi, 2022.1 - 2022.08
     * Service platform application start-up with 4 other partners
-    * Taking a long-term break while focusing on our main jobs
+    * Took charge of product management
+<!--  * Co-founder,  , 2023.04-->
 
 
 ## Publications  
