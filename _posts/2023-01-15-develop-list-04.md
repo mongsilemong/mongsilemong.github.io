@@ -2,7 +2,7 @@
 layout: post
 title:  "[2022년 제1회 메타버스 기획공모전] 기획 공모전 수상"
 date:   2023-01-15
-excerpt: "대학 공모전에서도 수상 못하면 안되지!"
+excerpt: "대학 공모전 우수상 수상...!"
 develop: true
 published: true
 tag:
